@@ -1,19 +1,23 @@
-<!-- ART.IS.YOU / GitHub profile · V6 candidate -->
+<!-- ART.IS.YOU / GITHUB PROFILE / V8 FOUND OBJECT -->
 
 <table>
   <tr>
-    <td width="60%" valign="middle">
+    <td width="56%" valign="middle">
       <sub>ART.IS.YOU / RESEARCH PRACTICE</sub>
-      <h2>Time is measured<br>in errors.</h2>
-      <sub>JULIA CHERNYSHEVA · ARTISYOU.RU</sub>
+      <h1>TIME IS<br>MEASURED<br>IN ERRORS.</h1>
+      <sub>ARCHIVE / 01</sub>
     </td>
-    <td width="40%" align="center" valign="middle">
+    <td width="44%" align="center" valign="middle">
       <a href="https://artisyou.ru/projects/godbot/">
-        <img src="https://artisyou.ru/assets/art-is-you/bogobot/569631925_31918146894498738_3798376759672502083_n.jpg" alt="BOGOBOT — ART.IS.YOU" width="100%">
+        <img src="https://artisyou.ru/assets/static.tildacdn.com/_27072018_21_58_12.jpg" alt="BOGOBOT installation, 27 July 2018 — documentary photograph" width="100%">
       </a>
     </td>
   </tr>
 </table>
+
+**[ART.IS.YOU](https://artisyou.ru/)** · Creative R&D Director / Researcher
+
+---
 
 ## Julia Chernysheva
 
