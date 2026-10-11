@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/research-header.svg" alt="ART.IS.YOU — Julia Chernysheva, human agency in technological systems" width="100%"></p>
+<p align="center"><img src="./assets/research-header.svg" alt="ART.IS.YOU — Julia Chernysheva, Time is measured in errors." width="100%"></p>
 
 ### Julia Chernysheva
 **Creative R&D Director / Researcher**
