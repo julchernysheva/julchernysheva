@@ -1,24 +1,26 @@
-# Julia Chernysheva
+<p align="center"><img src="./assets/research-header.svg" alt="ART.IS.YOU — Julia Chernysheva, human agency in technological systems" width="100%"></p>
 
+### Julia Chernysheva
 **Creative R&D Director / Researcher**
 
-I investigate how technological systems transform human agency, knowledge, culture, and authorship.
+I investigate how technological systems transform human agency, knowledge, culture, and authorship. My practice brings together cultural research, editorial thinking, and experimental digital systems.
 
-My practice brings together cultural research, editorial thinking, and experimental digital systems.
+---
 
-### Selected work
+### Selected research
 
-**[ART.IS.YOU](https://artisyou.ru)**  
+**01 / [ART.IS.YOU](https://artisyou.ru)**  
 An independent research practice at the intersection of technology and culture.
 
-**[BOGOBOT](https://github.com/julchernysheva/bogobot)**  
-An artistic research project examining how non-human intelligence changes the boundaries of human agency.
+**02 / [BOGOBOT](https://github.com/julchernysheva/bogobot)**  
+Artistic research into how non-human intelligence changes the boundaries of human agency.
 
-**[RUSSIAN INTELLECT](https://github.com/julchernysheva/russian-intellect)**  
-A research map of scientific lineages, technologies, and people shaping computational culture.
+**03 / [RUSSIAN INTELLECT](https://github.com/julchernysheva/russian-intellect)**  
+A research map of people, technologies, and scientific lineages shaping computational culture.
 
-### Research interests
+---
 
-Human agency · AI & culture · Technological systems · Authorship · Memory · Intelligence
+**Research territories**  
+Human agency · Intelligence · Authorship · Memory · Prediction · Technological systems
 
-**[Research →](https://artisyou.ru/research/)** · **[Projects →](https://artisyou.ru/projects/)** · **[Publications →](https://artisyou.ru/publications/)**
+[Research](https://artisyou.ru/research/) · [Projects](https://artisyou.ru/projects/) · [Publications](https://artisyou.ru/publications/)
