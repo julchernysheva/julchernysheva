@@ -1,29 +1,42 @@
-<!-- JULIA CHERNYSHEVA / PROFILE V5 — EDITORIAL COMPACT -->
+<!-- ART.IS.YOU / GitHub profile · V6 candidate -->
 
-<p align="center">
-  <a href="https://artisyou.ru/">
-    <img src="https://artisyou.ru/assets/art-is-you/home-h3c/media/05_RUPTURE_TIME_IS_MEASURED_IN_ERRORS.jpg" alt="ART.IS.YOU — Time is measured in errors" width="75%">
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <sub>ART.IS.YOU / RESEARCH PRACTICE</sub>
+      <h2>Time is measured<br>in errors.</h2>
+      <sub>JULIA CHERNYSHEVA · ARTISYOU.RU</sub>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <a href="https://artisyou.ru/projects/godbot/">
+        <img src="https://artisyou.ru/assets/art-is-you/bogobot/569631925_31918146894498738_3798376759672502083_n.jpg" alt="BOGOBOT — ART.IS.YOU" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 
-<h2 align="center">Julia Chernysheva</h2>
-<p align="center">
-  <strong>Creative R&amp;D Director / Researcher</strong><br>
-  AI · technology · culture · media<br>
-  <a href="https://artisyou.ru/">ART.IS.YOU</a> ·
-  <a href="https://artisyou.ru/research/">Research</a> ·
-  <a href="https://artisyou.ru/projects/">Projects</a> ·
-  <a href="https://artisyou.ru/publications/">Publications</a>
-</p>
+## Julia Chernysheva
 
-I investigate how technological systems transform human agency, culture and authorship.
+**Creative R&D Director / Researcher**
 
-### Selected work
+I investigate how technological systems transform human agency, knowledge, culture, and authorship. My practice brings together cultural research, editorial thinking, and experimental digital systems.
 
-**01 / [Russian Intellect](https://artisyou.ru/research/russian-intellect/)** — Interactive research map of 81 people, 28 technologies and 8 companies.
+---
 
-**02 / [BOGOBOT](https://artisyou.ru/projects/godbot/)** — Artistic research into human agency in the age of non-human intelligence.
+### Selected research
 
-<a href="https://artisyou.ru/projects/godbot/">
-  <img src="https://artisyou.ru/assets/art-is-you/bogobot/569631925_31918146894498738_3798376759672502083_n.jpg" alt="BOGOBOT — ART.IS.YOU" width="55%">
-</a>
+**01 / [ART.IS.YOU](https://artisyou.ru/)**  
+An independent research practice at the intersection of technology and culture.
+
+**02 / [BOGOBOT](https://github.com/julchernysheva/bogobot)**  
+Artistic research into how non-human intelligence changes the boundaries of human agency.
+
+**03 / [RUSSIAN INTELLECT](https://github.com/julchernysheva/russian-intellect)**  
+A research map of people, technologies, and scientific lineages shaping computational culture.
+
+---
+
+**Research territories**  
+Human agency · Intelligence · Authorship · Memory · Prediction · Technological systems
+
+[Research](https://artisyou.ru/research/) · [Projects](https://artisyou.ru/projects/) · [Publications](https://artisyou.ru/publications/)
