@@ -1,26 +1,56 @@
-<p align="center"><img src="./assets/research-header.svg" alt="ART.IS.YOU — Julia Chernysheva, Time is measured in errors." width="100%"></p>
+<!-- JULIA CHERNYSHEVA / GITHUB PROFILE — CANDIDATE V4 -->
 
-### Julia Chernysheva
-**Creative R&D Director / Researcher**
+<p align="center">
+  <a href="https://artisyou.ru/" title="ART.IS.YOU — Research platform">
+    <img src="https://artisyou.ru/assets/art-is-you/home-h3c/media/05_RUPTURE_TIME_IS_MEASURED_IN_ERRORS.jpg" alt="Время измеряется в ошибках — ART.IS.YOU" width="100%">
+  </a>
+</p>
 
-I investigate how technological systems transform human agency, knowledge, culture, and authorship. My practice brings together cultural research, editorial thinking, and experimental digital systems.
+<h1 align="center">Julia Chernysheva</h1>
+
+<p align="center">
+  <strong>Creative R&amp;D Director / Researcher</strong><br>
+  AI · technology · culture · media
+</p>
+
+<p align="center">
+  <a href="https://artisyou.ru/">ART.IS.YOU</a> &nbsp;·&nbsp;
+  <a href="https://artisyou.ru/research/">Research</a> &nbsp;·&nbsp;
+  <a href="https://artisyou.ru/projects/">Projects</a> &nbsp;·&nbsp;
+  <a href="https://artisyou.ru/publications/">Publications</a>
+</p>
 
 ---
 
-### Selected research
+### Research practice
 
-**01 / [ART.IS.YOU](https://artisyou.ru)**  
-An independent research practice at the intersection of technology and culture.
+I explore how technological systems reshape human agency, memory, authorship and the ways we understand reality. My work moves between research, editorial systems, interactive environments and artistic experiments.
 
-**02 / [BOGOBOT](https://github.com/julchernysheva/bogobot)**  
-Artistic research into how non-human intelligence changes the boundaries of human agency.
+**ART.IS.YOU** is my independent research platform on people, culture and technology.
 
-**03 / [RUSSIAN INTELLECT](https://github.com/julchernysheva/russian-intellect)**  
-A research map of people, technologies, and scientific lineages shaping computational culture.
+### Selected research / Russian Intellect
+
+**[Russian Intellect](https://artisyou.ru/research/russian-intellect/)** maps the continuities between Russian scientific schools, mathematical methods and contemporary technologies. Its interactive research map connects 81 people, 28 technologies and 8 companies.
+
+[Explore Russian Intellect →](https://artisyou.ru/research/russian-intellect/)
+
+### Featured project / BOGOBOT
+
+<a href="https://artisyou.ru/projects/godbot/">
+  <img src="https://artisyou.ru/assets/art-is-you/bogobot/569631925_31918146894498738_3798376759672502083_n.jpg" alt="BOGOBOT — ART.IS.YOU project image" width="100%">
+</a>
+
+**BOGOBOT** investigates what happens to human agency when non-human intelligence becomes involved in the production of knowledge, memory, images and decisions. The project develops this question through a connected system of texts, visual forms and interactive structures.
+
+[Explore BOGOBOT →](https://artisyou.ru/projects/godbot/)
+
+### Explore
+
+**Research** — [Research territories and systems](https://artisyou.ru/research/)  
+**Projects** — [Selected artistic and interactive work](https://artisyou.ru/projects/)  
+**Writing** — [Essays and publications](https://artisyou.ru/publications/)  
+**Platform** — [ART.IS.YOU](https://artisyou.ru/)
 
 ---
 
-**Research territories**  
-Human agency · Intelligence · Authorship · Memory · Prediction · Technological systems
-
-[Research](https://artisyou.ru/research/) · [Projects](https://artisyou.ru/projects/) · [Publications](https://artisyou.ru/publications/)
+<sub>ART.IS.YOU / INDEPENDENT RESEARCH PLATFORM · 2026</sub>
