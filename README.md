@@ -34,7 +34,7 @@ I explore how technological systems reshape human agency, memory, authorship and
 
 [Explore Russian Intellect →](https://artisyou.ru/research/russian-intellect/)
 
-### Featured project / BOGOBOT
+### Selected project / BOGOBOT
 
 <a href="https://artisyou.ru/projects/godbot/">
   <img src="https://artisyou.ru/assets/art-is-you/bogobot/569631925_31918146894498738_3798376759672502083_n.jpg" alt="BOGOBOT — ART.IS.YOU project image" width="100%">
